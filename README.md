@@ -20,3 +20,6 @@ Third, you can tap on one of the images, which will take you to a detailed descr
 Finally, you can press the top left corner arrow to be directed back to the main page and the scrollable list.
 
 Here is the video that shows how the app works:
+
+https://github.com/user-attachments/assets/142a81ea-9ddf-4fcb-811d-98a21b847be5
+
