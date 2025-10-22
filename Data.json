@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Bahamas",
+        "description": "A tropical paradise known for its clear turquoise waters, white sandy beaches, and vibrant island culture.",
+        "imageName": "bahamas"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Rome",
+        "description": "Italy’s capital city, rich with ancient history, stunning architecture, and the iconic Colosseum and Vatican City.",
+        "imageName": "rome"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Antarctica",
+        "description": "The coldest, driest, and windiest continent on Earth—home to incredible glaciers, penguins, and endless ice landscapes.",
+        "imageName": "antarctica"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Tokyo",
+        "description": "Japan’s bustling capital, where futuristic skyscrapers meet ancient temples, and culture blends with cutting-edge technology.",
+        "imageName": "tokyo"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Paris",
+        "description": "The romantic city of lights, celebrated for the Eiffel Tower, art museums, and charming cafes along the Seine.",
+        "imageName": "paris"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "New York",
+        "description": "The city that never sleeps, famous for its skyline, Times Square, and the cultural diversity of its neighborhoods.",
+        "imageName": "newyorkcity"
+    }
+]
